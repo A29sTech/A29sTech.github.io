@@ -2,18 +2,10 @@ body{
     background-color: lightgray;
 }
 
-.navbar{
-    display: block;
-    background-color: rgba(0, 0, 0, 0.137);
-    position: fixed;
-    top: 0px;
-    width: 100%;
-}
-
 .header{
+    text-align: center;
     cursor: default;
     z-index: 999;
-    text-align: center;
     font-family: “Open Sans”, sans-serif;
     font-weight: bolder;
     color: rgb(255, 102, 0);
@@ -25,7 +17,7 @@ body{
 }
 
 .services{
-    margin: 110px;
+    margin-top: 110px;
 }
 
 .content-header{
