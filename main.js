@@ -15,4 +15,4 @@ document.onclick = ()=>{
 document.onwheel = ()=>{
     showContact();
     document.onmouseover = null;
-}
+};
